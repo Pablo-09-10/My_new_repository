@@ -1,2 +1,2 @@
 # My_new_repository
-pip install streamlit
+# Esta aplicación es para crear un histograma y un 
